@@ -1,0 +1,6 @@
+ID,Código,Nombre,Categoría,Cantidad,Precio,Disponible
+1,P001,Mouse inalámbrico,Electrónica,15,8500.0,true
+2,P002,Teclado mecánico,Electrónica,8,32000.0,true
+3,P003,Monitor 24 pulgadas,Electrónica,0,145000.0,false
+5,P004,Resma de papel carta,Oficina,100,2800.0,true
+7,P005,Silla de oficina,Hogar,5,65000.0,true
